@@ -1,0 +1,29 @@
+/* #1A120B
+#3C2A21
+#D5CEA3
+#E5E5CB */
+
+* {
+  font-family: "Prosto One", cursive;
+}
+
+.App {
+  height: 100vh;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.coverLeft {
+  height: 100vh;
+  /* background-color: #3c2a21; */
+  background-color: #1c315e;
+}
+
+.coverRight {
+  height: 100vh;
+  background-color: #e5e5cb;
+}

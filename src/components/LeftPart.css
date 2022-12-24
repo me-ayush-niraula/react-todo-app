@@ -1,0 +1,33 @@
+.pngImage {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 20px;
+}
+.pngImage img {
+  /* width: 60%; */
+  width: 350px;
+}
+
+.appTitle {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: white;
+}
+
+.describeText {
+  color: white;
+}
+
+.specialText {
+  background-color: #e5e5cb;
+  color: rgb(148, 148, 148);
+  padding: 4px;
+  border-radius: 9px;
+}
+
+a {
+  color: rgb(148, 148, 148);
+}

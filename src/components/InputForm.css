@@ -1,0 +1,39 @@
+.inputForm {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 30px;
+}
+
+.addButton {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.removeAll {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.buttonRow {
+  margin-top: 20px;
+}
+
+.inputBox {
+  padding: 30px;
+  text-align: center;
+}
+input:focus {
+  outline: none;
+}
+button {
+  padding: 15px;
+}
+
+button:hover {
+  background-color: #1c315e;
+  color: white;
+  border: 2px solid white;
+}

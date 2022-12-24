@@ -1,0 +1,16 @@
+.todoStyle {
+  margin-top: 5px;
+  border: 2px solid #1c315e;
+  padding: 5px;
+  text-align: center;
+  border-radius: 4px;
+  transition: 0.4s;
+}
+
+.todoStyle:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+}
+.todoStyle button {
+  padding: 2px;
+}
